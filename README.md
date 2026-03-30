@@ -1,6 +1,5 @@
 # Hi 👋, I'm liu
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yiqing37&label=Profile views&color=0e75b6&style=flat" alt="yiqing37" /> </p>
 
 - 🔭 I'm currently working on **云计算，学习K8s云原生，云计算方面的知识，一些项目实战。**
 
